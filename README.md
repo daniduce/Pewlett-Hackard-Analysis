@@ -5,8 +5,9 @@
 ### The Purpose
 
   Pewlett Hackard management wanted Bobby and I to use our new found SQL skills to help the company determine how many employees per title will be retiring and apart of the "silver tsunami". Bobby's manager also wanted us to figure out how many employees are eligible for the mentorship program the company offers. 
+  
 
-## Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+## Results: 
 
 * Most of the employees retiring were born between January 1, 1952 and December 31, 1955. 
 
@@ -16,9 +17,10 @@
 
 * The next generation employees that will be taking over and eligible to participate in the mentorship program were born January 1, 1965 and December 31, 1965
 
+* The next generation employees also typically hold higher senior positions. 
+
 ![mentorship](https://user-images.githubusercontent.com/71396367/98501429-2e3bd080-221d-11eb-9978-26d25aaa843c.png)
 
-* The next generation employees also typically hold higher senior positions. 
 
 ## Summary: 
 
